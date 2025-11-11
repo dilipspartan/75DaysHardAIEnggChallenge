@@ -16,3 +16,6 @@ Total successful responses of the Image classification API: 500
 
 6. (97.07+97.44+98.03)/3 ==>292.5/3 = 97.5 = 98% (approximately)
 
+`(Total Sentiment API requests) + (Total successful Image Classification responses) + (Authentication errors × 10) + (Overall success rate as integer percentage)`
+
+342 + 500 + 40 + 98 = 980
